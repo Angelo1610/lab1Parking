@@ -1,0 +1,6 @@
+projectKey=parking
+serverUrl=http://localhost:9000
+serverVersion=25.5.0.107428
+dashboardUrl=http://localhost:9000/dashboard?id=parking
+ceTaskId=0a59dd49-955a-43a3-873e-bc5d1c900819
+ceTaskUrl=http://localhost:9000/api/ce/task?id=0a59dd49-955a-43a3-873e-bc5d1c900819
